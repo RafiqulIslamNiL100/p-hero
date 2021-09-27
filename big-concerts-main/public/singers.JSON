@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "Arjit Sing",
+        "age": 32,
+        "country": "India",
+        "img": "https://pbs.twimg.com/media/E_bGtMLVQAEB5Ps?format=jpg&name=small",
+        "singerFee": 20000,
+        "favouriteLanguage": "Hindi"
+    },
+    {
+        "Name": "Hero Alam",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://www.sangbadpratidin.in/wp-content/uploads/2020/12/Hero-Alam-1200x720.jpg",
+        "singerFee": 100,
+        "favouriteLanguage": "All"
+    },
+    {
+        "Name": "Atif Aslam",
+        "age": 30,
+        "country": "India",
+        "img": "https://pbs.twimg.com/profile_images/1091604214965592064/ryM6mNnp_400x400.jpg",
+        "singerFee": 25000,
+        "favouriteLanguage": "Hindi"
+    },
+    {
+        "Name": "Tahsan Khan",
+        "age": 35,
+        "country": "Bangladesh",
+        "img": "https://pbs.twimg.com/media/ExvL-TLVoAQ8L3Q?format=jpg&name=large",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Kona",
+        "age": 29,
+        "country": "Bangladesh",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Dilshad_Nahar_Kona_in_2014.jpg",
+        "singerFee": 4000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Nancy",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://celebsee.files.wordpress.com/2011/11/nancy-2.jpg",
+        "singerFee": 9000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Habib Wahid",
+        "age": 35,
+        "country": "Bangladesh",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLT5Y4QxvHam4uSFXFyljPXeVXsEXBEKLU7qAO09=s900-c-k-c0x00ffffff-no-rj",
+        "singerFee": 12000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Jeet Ganguly",
+        "age": 40,
+        "country": "India",
+        "img": "https://i.pinimg.com/originals/0b/9b/0f/0b9b0f3dbbf206f68fe124fbceb8f66f.jpg",
+        "singerFee": 10000,
+        "favouriteLanguage": "Bengali & Hindi"
+    },
+    {
+        "Name": "Novel",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://direct.rhapsody.com/imageserver/images/alb.454368663/600x600.jpg",
+        "singerFee": 30000,
+        "favouriteLanguage": "Bengali & Hindi"
+    },
+    {
+        "Name": "Obonti",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-1-157120/list/01157120_list.jpg",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Mahfuzur Rahman",
+        "age": 50,
+        "country": "Korea",
+        "img": "https://i.ytimg.com/vi/1D0i_pRm2NE/maxresdefault.jpg",
+        "singerFee": 150,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Bappi Lahiri",
+        "age": 65,
+        "country": "India",
+        "img": "https://raag.fm/image/250/1680686/Uber-Cool-Bappi-Lahiri-Vijay-Benedict.jpg",
+        "singerFee": 20000,
+        "favouriteLanguage": "Bengali & Hindi"
+    },
+    {
+        "Name": "Arman Mallick",
+        "age": 29,
+        "country": "India",
+        "img": "https://pbs.twimg.com/media/EUqUXk_UEAUOrn6.jpg",
+        "singerFee": 5000,
+        "favouriteLanguage": "Hindi"
+    },
+    {
+        "Name": "Marsh Melo",
+        "age": 29,
+        "country": "USA",
+        "img": "https://i.pinimg.com/originals/61/f1/78/61f17842350754c970ee191327683126.jpg",
+        "singerFee": 10000,
+        "favouriteLanguage": "English"
+    },
+    {
+        "Name": "James",
+        "age": 45,
+        "country": "Bangladesh",
+        "img": "http://3.bp.blogspot.com/--ikEn4wC-2Y/Vkddey3eHQI/AAAAAAAAA2o/uYATpQPysfY/s1600/James%2BBangladeshi%2BSinger.jpg",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Balam",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://cdns-images.dzcdn.net/images/cover/ef2bf267f2c1c7a91f67f91345b278e2/500x500.jpg",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Ando Kisor",
+        "age": 45,
+        "country": "Bangladesh",
+        "img": "https://2.bp.blogspot.com/-htpTZCbgbfw/XCd0sWBj7PI/AAAAAAAABH0/YPeBIocic6ELR1nyv3_vK458VVFn61FBgCK4BGAYYCw/s1600/Dukkho%2BAmar%2BChiro%2BSathi%2B--%2BAndr%2Bcopsay.jpg",
+        "singerFee": 10000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Anik Barua Turjoy",
+        "age": 25,
+        "country": "Bangladesh",
+        "img": "https://scontent.fcgp5-1.fna.fbcdn.net/v/t39.30808-6/242599389_3029255577395698_2206477158857966261_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGH3mvNCipcyGQHePbdFzksWcAyc70WF21ZwDJzvRYXbUV9DS-ZmRO5PBgoqnN0v4mSMBW0TF4xG9H5aZHZu97E&_nc_ohc=Ejc7A9guUnwAX-HN4qo&_nc_ht=scontent.fcgp5-1.fna&oh=cfa56043a390446970532360c25dc564&oe=61556EFC",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Topu",
+        "age": 40,
+        "country": "Bangladesh",
+        "img": "https://i.ytimg.com/vi/nxyKNuaX3aQ/maxresdefault.jpg",
+        "singerFee": 10000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Minar Rahman",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://lastfm.freetls.fastly.net/i/u/770x0/d5e0cc25930de7e012610bd3f35e6bb5.jpg",
+        "singerFee": 5000,
+        "favouriteLanguage": "Bengali"
+    },
+    {
+        "Name": "Edele",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2020_43/1625054/adele-snl-main-square.jpg",
+        "singerFee": 30000,
+        "favouriteLanguage": "English"
+    }
+]
