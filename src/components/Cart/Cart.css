@@ -1,0 +1,15 @@
+.info{
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+    color: white;
+    margin: 5px;
+}
+.singer-names{
+    color: black;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.singer-information{
+    padding-left: 20px;
+}
